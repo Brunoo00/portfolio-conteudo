@@ -1,10 +1,10 @@
-# Vídeo Promocional - Fan Made
+# Energético Discord – Vídeo Promocional Fan Made
 
-Vídeo promocional para um energético fictício.
+Conceito visual + animação para um energético gamer, com a cara do Discord.
 
 ---
 
-Projeto não oficial, utilizando a marca discord para a criação de um energético fictício, criando design de embalagem (rótulo), junto da aplicação com Motion Design.
+Projeto conceitual e não oficial inspirado na estética do Discord. A proposta apresenta o design de rótulo para um energético fictício voltado ao público gamer, com foco em identidade visual e animação promocional usando técnicas de Motion Design.
 
 **Capa:** 1.mp4
 

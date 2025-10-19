@@ -1,10 +1,10 @@
-# EcoBeats - Motion & Identidade Visual
+# EcoBeats – Marca & Animação para App Musical
 
-Criação de marca e animação de logo!
+Identidade visual + animação com vibe natural e relaxante.
 
 ---
 
-Projeto de Identidade Visual para um app de música com temática de natureza relaxante, junto da criação de elementos utilizando Motion Design e Design Gráfico, para criar e animar artes diversas da marca.
+Criação da identidade visual para o EcoBeats, um aplicativo de música com foco em sons da natureza e relaxamento. O projeto inclui design do logotipo, paleta e elementos gráficos, além de animações aplicando técnicas de Motion Design para dar vida à marca em materiais digitais.
 
 **Capa:** 1.mp4
 

@@ -1,10 +1,10 @@
-# SpaceFuel Coffee - Motion & Identidade Visual
+# SpaceFuel Coffee – Marca Futurista com Motion
 
-Criação de marca e animação de logo!
+Identidade visual e animação para uma cafeteria do futuro!
 
 ---
 
-Projeto de Identidade Visual para uma cafeteria com temática futurista, junto da criação de elementos utilizando Motion Design e Design Gráfico, para criar e animar peças diversas da marca.
+Criação da identidade visual para a SpaceFuel Coffee, uma cafeteria fictícia com temática futurista. O projeto une design gráfico e Motion Design para dar vida à marca em diversas peças animadas, com foco em uma estética espacial, moderna e tecnológica. Do logotipo aos elementos visuais, tudo foi desenvolvido para transmitir a experiência de um café inovador e fora deste mundo.
 
 **Capa:** Cookie_Meteorito_Animação.mp4
 

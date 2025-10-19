@@ -1,10 +1,10 @@
-# Projeto Ego - Motion & Identidade Visual
+# Projeto Ego – Estudo de Marca com Motion Design
 
-Identidade Visual e Animação de Logo para um projeto fictício de estudo.
+Exploração visual com identidade e animações para marca fictícia.
 
 ---
 
-Projeto de Identidade Visual para uma marca fictícia, junto da criação de elementos utilizando Motion Design e Design Gráfico, para criar e animar peças diversas, com o intuito de estudar, treinar e testar diversos elementos de design.
+Estudo experimental de branding com foco em identidade visual e animação. O Projeto Ego é uma marca fictícia criada para testar diferentes abordagens de design gráfico e Motion Design, com desenvolvimento de logotipo, sistema visual e peças animadas. Um exercício criativo voltado ao aprimoramento técnico e estético.
 
 **Capa:** 1.mp4
 

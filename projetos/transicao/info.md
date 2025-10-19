@@ -1,10 +1,10 @@
-# Transições
+# Transições Criativas – Estudo em Motion 2D
 
-Vídeo de motion 2d, testando diferentes técnicas de transições
+Animação explorando técnicas de transição fluidas e dinâmicas.
 
 ---
 
-Criação de um vídeo de motion 2d, utilizando diversas técnicas de transições para estudo e aprendizado.
+Vídeo experimental em Motion Design 2D com foco em transições visuais. O projeto foi criado como um estudo técnico, explorando diferentes formas de conectar cenas e elementos gráficos de maneira fluida, criativa e ritmada. Ideal para aprimorar domínio de movimento e composição visual em peças animadas.
 
 **Capa:** 1.mp4
 
