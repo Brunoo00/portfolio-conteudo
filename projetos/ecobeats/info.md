@@ -5,8 +5,8 @@ Criação da identidade visual para o EcoBeats, um aplicativo de música com foc
 ---
 **Capa:** 1.mp4
 **Mídia:** 1.mp4
-**Mídia:** 2.png
-**Mídia:** 3.png
-**Mídia:** 4.png
+**Mídia:** 2.mp4
+**Mídia:** 3.mp4
+**Mídia:** 4.mp4
 ---
 #Motion-Design #Identidade-Visual #Design-Gráfico #Animação-de-Logo
