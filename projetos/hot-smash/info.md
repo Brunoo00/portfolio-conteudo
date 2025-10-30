@@ -5,6 +5,6 @@ Vídeo promocional desenvolvido para divulgar o lançamento do Hot Smash, o novo
 ---
 **Capa:** 1.mp4
 **Mídia:** 1.mp4
-**Mídia:** storyboard.png
+**Mídia:** 2.png
 ---
 #Motion-Design #Design-Gráfico #Vídeo-Promocional
