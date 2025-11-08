@@ -1,0 +1,48 @@
+name: Sincronizar Conteúdo com Frontend
+
+# GATILHO:
+# Roda esta Ação sempre que você der 'push' na branch 'main'
+# do repositório 'portfolio-conteudo'
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Faz o checkout do repositório de FRONTEND (bruno-portfolio)
+      - name: Checkout frontend repository
+        uses: actions/checkout@v4
+        with:
+          repository: Brunoo00/bruno-portfolio
+
+          token: ${{ secrets.FRONTEND_PAT }}
+
+          path: frontend
+
+      # 2. Atualiza o "ponteiro" do submódulo dentro do checkout do frontend
+      - name: Update submodule pointer
+        run: |
+          cd frontend
+          # Inicializa o submódulo e aponta ele para o commit mais 
+          # recente da branch remota (a que disparou esta Ação)
+          git submodule update --init --remote portfolio-conteudo
+
+      # 3. Salva (commit) e envia (push) a mudança para o frontend
+      - name: Commit and push changes
+        run: |
+          cd frontend
+          git config user.name "GitHub Action Bot"
+          git config user.email "action@github.com"
+
+          # Verifica se o ponteiro realmente mudou
+          if ! git diff --quiet -- "portfolio-conteudo"; then
+            echo "Submódulo alterado. Fazendo commit..."
+            git add portfolio-conteudo
+            git commit -m "chore(content): Sincroniza submódulo de conteúdo automaticamente"
+            git push
+          else
+            echo "Nenhuma mudança no submódulo."
+          fi
